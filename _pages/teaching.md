@@ -2,11 +2,17 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: #Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Louisiana State University
+**Money, Banking, and Macroeconomic Activity (ECON 2035)**
+ * Fall 2024 - Present
 
-Organize your courses by years, topics, or universities, however you like!
+**Principles of Macroeconomics (ECON 2010)**
+* Fall 2022 - Spring 2024 (four semesters)
+
+**Economic Principles (ECON 2030)** - Recitation instructor
+* Fall 2020 - Spring 2022 (four semesters)
