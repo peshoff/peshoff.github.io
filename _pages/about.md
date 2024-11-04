@@ -22,7 +22,7 @@ social: false # includes social icons at the bottom of the page
 
 Economics doctoral candidate at Louisiana State University with interests in environmental economics, health economics, and labor economics. 
 
-As a Louisiana local with loved ones located all over the state, a strong stake in improving the economic well-being of all Louisiana residents has further cultivated my pre-existing interest in environmental, health, and labor economics. I find the intersection of all three fields and an outlet for my passion for Louisiana in my job market paper, "Commuting and Polluting: Evidence from Louisiana Housing Prices". This project has been a challenge that has necessitated the development of many new skills, from working with pollution modeling programs to geospatial analysis tools to writing in multiple programing languages. I look forward to sharing my research with my local community as well as fellow economists. 
+As a Louisiana local with loved ones located all over the state, a strong stake in improving the economic well-being of all Louisiana residents has further cultivated my pre-existing interest in environmental, health, and labor economics. I find the intersection of all three fields in my job market paper, "Commuting and Polluting: Evidence from Louisiana Housing Prices". This project has been a challenge that has necessitated the development of many new skills, from working with pollution modeling programs to geospatial analysis tools to writing in multiple programing languages. I look forward to sharing my research with my local community as well as fellow economists. 
 
 <a href='assets/pdf/Peshoff_CV.pdf'>CV</a> | <a href='https://www.lsu.edu/business/directory/employee-profiles/peshoff-mary-economics.php'>LSU Site</a> 
 
