@@ -98,21 +98,21 @@
   "publications": [
     {
       "name": "Commuting and Polluting: Evidence from Louisiana Housing Prices",
-      "publisher": "Working paper",
+      "publisher": "Job Market Paper",
       "releaseDate": "2024",
       "url": "",
-      "summary": ""
+      "summary": "This paper examines the impact of industrial air pollution on Louisiana real estate market outcomes–particularly the sale price of homes and the number of homes sold. Changes in weather patterns at industrial facilities impact the transport and dispersion of pollution from those facilities from one year to another. These changes in weather provide an exogenous source of variation in pollution concentrations observed at homes over time, which is exploited through the NOAA’s HYSPLIT model. Examining the near universe of home sales in Louisiana from 1998-2018, results show that the number of homes sold decrease with increases in pollution concentration, and those decreases in sales are concentrated among lower-valued homes, while higher-valued homes sell more. The relationship between pollution and home sale price per acre is largely positive and statistically insignificant."
     },
     {
       "name": "Holy Work: How Religiosity Shapes Local Labor Market Outcomes",
-      "publisher": "Working paper with Murad Zeynalli",
+      "publisher": "WIP with Murad Zeynalli",
       "releaseDate": "2024",
       "url": "",
       "summary": "We exploit historical religious affiliation and immigration patterns to construct an instrument for the religious makeup of a county and examine how religiosity impacts labor market outcomes."
     },
     {
       "name": "The Impact of Tobacco 21 Laws On Underage Drinking",
-      "publisher": "Working paper",
+      "publisher": "Third Year Paper",
       "releaseDate": "2022",
       "url": "",
       "summary": "Using 2013 through 2020 survey waves of individual-level data from the CDCs Behavioral Risk Factor Surveillance System (BRFSS) and the staggered adoption of “Tobacco 21” laws across the United States, this paper examines the average treatment eﬀect of an increase in tobacco-purchasing-age on underage drinking. This analysis finds that overall, Tobacco 21 policy largely has an inconclusive or null impact on youth smoking participation. Though results for New Jersey and Oregon suggest that alcohol and tobacco are complements for youth in those states, Tobacco 21 policy induces less smoking and drinking in one state and more in another."
