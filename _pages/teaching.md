@@ -20,8 +20,7 @@ One of my overarching goals as a teacher is to emphasize topics and skills that 
 
 As I continue to develop my teaching skills, I plan to humbly incorporate feedback. I hope for opportunities to merge my love of teaching with my research areas by teaching microeconomics courses. I would also love to teach courses that introduce students to economic research and challenge them to develop statistical skills that grow their passion for economics and help them gain an edge in the job market.    
 
-## Experience
-### Louisiana State University
+### Experience
 **Money, Banking, and Macroeconomic Activity (ECON 2035)**
  * Fall 2024 - Present
 
