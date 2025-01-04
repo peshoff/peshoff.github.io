@@ -10,10 +10,12 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Louisiana State University</p>
-    <p>E.J. Ourso College of Business</p>
-    <p>2430 Business Education Complex</p>
-    <p>501 S Quad Dr.</p>
-    <p>Baton Rouge, LA 70803</p>
+    <p><small>E.J. Ourso College of Business</small></p>
+    <p><small>2430 Business Education Complex</small></p>
+    <p><small>501 S Quad Dr.</small></p>
+    <p><small>Baton Rouge, LA 70803</small></p>
+    <p><small><a href="mailto:mkpeshoff@gmail.com">Personal Email</a></small></p>
+    <p><small><a href="mailto:mpesho1@lsu.edu">School Email</a></small></p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
