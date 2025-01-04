@@ -38,7 +38,7 @@
       year: 2024-now
       description:
         - Instructor for ECON 2035 "Money, Banking, and Macroeconomic Activity", two semesters
-        - <a href="/assets/SampleSyllabus_ECON2035.pdf">Sample syllabus</a>
+        - <a href="/assets/pdf/SampleSyllabus_ECON2035.pdf">Sample syllabus</a>
     - title: Graduate Research Assistant
       institution: Center for Energy Studies, Louisiana State University
       year: 2024
@@ -49,13 +49,13 @@
       year: 2022-2024
       description:
         - Instructor for ECON 2010 "Principles of Macroeconomics", four semesters
-        - <a href="/assets/SampleSyllabus_ECON2010.pdf">Sample syllabus</a>
+        - <a href="/assets/pdf/SampleSyllabus_ECON2010.pdf">Sample syllabus</a>
     - title: Recitation instructor for ECON 2030
       institution: Department of Economics, Louisiana State University
       year: 2020-2022
       description:
         - Recitation instructor for ECON 2030 "Economics Principles", four semesters
-        - <a href="/assets/SampleSyllabus_ECON2030.pdf">Sample syllabus</a>
+        - <a href="/assets/pdf/SampleSyllabus_ECON2030.pdf">Sample syllabus</a>
 
     - title: Graduate Teaching Assistant 1
       institution: Department of Economics, Louisiana State University
@@ -83,7 +83,7 @@
       description: Job market paper
     - title: Holy Work - How Religiosity Shapes Local Labor Market Outcomes
       year: 2024
-      description: WIP with Murad Zeynalli
+      description: <a href="/assets/pdf/Religiosity_Labor.pdf">WIP with Murad Zeynalli
     - title: The Impact of Tobacco 21 Laws On Underage Drinking
       year: 2022
       description: Third year paper
