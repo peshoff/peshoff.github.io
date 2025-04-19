@@ -74,10 +74,17 @@
     },
     {
       "name": "Center for Energy Studies, Louisiana State University",
-      "position": "Graduate Research Assistant",
+      "position": "Summer Research Assistant",
       "startDate": "2024-06-05",
       "endDate": "2024-08-23",
       "summary": "Assisted with the creation of the Louisiana Infrastructure Database. This ongoing project aims to create a website where state and local government and the general public can find information on the energy consumption, emissions, and property taxes of Louisiana industrial facilities."
+    },
+    {
+      "name": "Ascension Technologies",
+      "position": "Business Analyst Intern",
+      "startDate": "2018-09-17",
+      "endDate": "2019-04-02",
+      "summary": "Compiled financial analytics for high-spend vendors. Developed software asset management metrics for proof of concept brought to CFO."
     }
   ],
   "awards": [
@@ -92,6 +99,14 @@
       "name": "Graduate Certificate in Econometrics",
       "date": "2021-12-01",
       "issuer": "Louisiana State University",
+      "url": "https://www.parchment.com/u/s/n31M",
+      "icon": "fa-solid fa-location-dot"
+    },
+    { 
+      "name": "Social & Behavioral Research",
+      "date": "2025-04-18",
+      "issuer": "CITI Program Course Certification",
+      "url": "https://www.citiprogram.org/verify/?w5dcf4dab-2326-4906-8ae4-f4b658cdf0b7-69087481",
       "icon": "fa-solid fa-location-dot"
     }
   ],

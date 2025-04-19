@@ -8,7 +8,7 @@
     - name: Personal Email
       value: mkpeshoff@gmail.com
     - name: Summary
-      value: Economics doctoral candidate with interests in environmental economics, health economics, and labor economics.
+      value: Economics PhD (to be conferred May 2025) with interests in environmental economics, health economics, and labor economics.
 
 - title: Education
   type: time_table
@@ -19,8 +19,6 @@
     - title: MS, Economics
       institution: Louisiana State University, Baton Rouge, LA
       year: 2019-2021
-      description:
-        - Graduate Certificate in Econometrics
     - title: BS, Business Economics
       institution: Louisiana Tech University, Ruston, LA
       year: 2013-2018
@@ -29,6 +27,16 @@
           contents:
             - Mathematics
             - Sustainable Supply Chain Management
+
+- title: Certifications
+  type: time_table
+  contents:
+    - title: Social & Behavioral Research With Human Subjects
+      institution: CITI Program Course Certification
+      year: 2025
+    - title: Graduate Certificate in Econometrics
+      institution: Louisiana State University
+      year: 2022
 
 - title: Experience
   type: time_table

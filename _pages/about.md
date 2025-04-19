@@ -22,9 +22,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Economics doctoral candidate at Louisiana State University with interests in environmental economics, health economics, and labor economics. 
+Economics PhD (graduating from Louisiana State University May 16th 2025) with interests in environmental economics, health economics, and labor economics. 
 
-As a Louisiana local with loved ones located all over the state, a strong stake in improving the economic well-being of all Louisiana residents has further cultivated my pre-existing interest in environmental, health, and labor economics. I find the intersection of all three fields in my job market paper, <a href='assets/pdf/Peshoff_JMP.pdf'>"Commuting and Polluting: Evidence from Louisiana Housing Prices"</a>. This project has been a challenge that has necessitated the development of many new skills, from working with pollution modeling programs to geospatial analysis tools to writing in multiple programing languages. I look forward to sharing my research with my local community as well as fellow economists. 
+As a Louisiana local with loved ones located all over the state, a strong stake in improving the economic well-being of all Louisiana residents has further cultivated my pre-existing interest in environmental, health, and labor economics. I find the intersection of all three fields in my job market paper, <a href='assets/pdf/Peshoff_JMP.pdf'>"Polluting and Commuting: Evidence from Louisiana Housing Prices"</a>. This project has been a challenge that has necessitated the development of many new skills, from working with pollution modeling programs to geospatial analysis tools to writing in multiple programing languages. I look forward to sharing my research with my local community as well as fellow economists. 
 
 I was awarded a teaching award by the Department of Economics at LSU in 2023, and in early December, I was notified that I have been nominated for the 2024-2025 College Teaching Awards.
 
