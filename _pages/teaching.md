@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-I share a full teaching portfolio, including my teaching statement and a summary of student evaluations and response [at the link here](https://peshoff.github.io/assets/pdf/Teaching_Portfolio.pdf). 
+<!--I share a full teaching portfolio, including my teaching statement and a summary of student evaluations and response [at the link here](https://peshoff.github.io/assets/pdf/Teaching_Portfolio.pdf).-->
 
 ### Select Comments from Students This Past Semester
 These comments were shared in official, non-compulsory, anonymous student evaluations completed by students who took ECON 2035 "Money, Banking, and Macroeconomic Activity" with me in Fall 2024[^1].
@@ -21,17 +21,22 @@ These comments were shared in official, non-compulsory, anonymous student evalua
 
 ### Teaching Awards and Nominations
 * 2023 Graduate Student Teaching Award, Department of Economics
-* 2024-2025 LSU E.J. Ourso College of Business Teaching Awards Candidate
-
+* 2024-2025 LSU E.J. Ourso College of Business Teaching Awards Nominee
 
 ### Experience
-**Money, Banking, and Macroeconomic Activity (ECON 2035)**
- * Fall 2024 - Present
+**Research Methods and Statistics for Economics (EC225 at Colby College)**
+* Fall 2025
 
-**Principles of Macroeconomics (ECON 2010)**
-* Fall 2022 - Spring 2024 (four semesters)
+**Health Economics (EC297 at Colby College)**
+* Fall 2025
 
-**Economic Principles (ECON 2030)** - Recitation instructor
+**Money, Banking, and Macroeconomic Activity (ECON 2035 at LSU)**
+ * Fall 2024 - Spring 2025 (two semesters)
+
+**Principles of Macroeconomics (ECON 2010 at LSU)**
+* Fall 2022 - Spring 202 (four semesters)
+
+**Economic Principles (ECON 2030 at LSU)** - Recitation instructor
 * Fall 2020 - Spring 2022 (four semesters)
 
-[^1]: I share student comments from Fall 2024 in full in [my teaching portfolio](https://peshoff.github.io/assets/pdf/Teaching_Portfolio.pdf)). 
+<!--[^1]: I share student comments from Fall 2024 in full in [my teaching portfolio](https://peshoff.github.io/assets/pdf/Teaching_Portfolio.pdf)).-->

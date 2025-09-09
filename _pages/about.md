@@ -9,11 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Louisiana State University</p>
-    <p><small>E.J. Ourso College of Business</small></p>
-    <p><small>2430 Business Education Complex</small></p>
-    <p><small>501 S Quad Dr.</small></p>
-    <p><small>Baton Rouge, LA 70803</small></p>
+    <p>Colby College</p>
+    <p><small>Department of Economics</small></p>
+    <p><small>5231 Mayflower Hill</small></p>
+    <p><small>Waterville, ME 04901</small></p>
     <p><small><a href="mailto:mkpeshoff@gmail.com">Personal Email</a></small></p>
     <p><small><a href="mailto:mpesho1@lsu.edu">School Email</a></small></p>
 
@@ -22,11 +21,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Economics PhD (graduating from Louisiana State University May 16th 2025) with interests in environmental economics, health economics, and labor economics. 
+Visting Assistant Professor at Colby College with interests in environmental economics, health economics, and labor economics. 
 
 As a Louisiana local with loved ones located all over the state, a strong stake in improving the economic well-being of all Louisiana residents has further cultivated my pre-existing interest in environmental, health, and labor economics. I find the intersection of all three fields in my job market paper, <a href='assets/pdf/Peshoff_JMP.pdf'>"Polluting and Commuting: Evidence from Louisiana Housing Prices"</a>. This project has been a challenge that has necessitated the development of many new skills, from working with pollution modeling programs to geospatial analysis tools to writing in multiple programing languages. I look forward to sharing my research with my local community as well as fellow economists. 
 
-I was awarded a teaching award by the Department of Economics at LSU in 2023, and in early December, I was notified that I have been nominated for the 2024-2025 College Teaching Awards.
 
 
 <a href='assets/pdf/Peshoff_CV.pdf'>CV</a> | <a href='https://www.lsu.edu/business/directory/employee-profiles/peshoff-mary-economics.php'>LSU Site</a> 
