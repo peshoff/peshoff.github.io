@@ -6,7 +6,7 @@ description: #Materials for courses you taught. Replace this text with your desc
 nav: true
 nav_order: 6
 ---
-I share my teaching evaluations for the 2024-2025 academic year in full [at the link here.](https://peshoff.github.io/assets/pdf/Peshoff_2024_2025_teaching_avaluations.pdf)
+I share my teaching evaluations for the 2024-2025 academic year in full [at the link here.](https://peshoff.github.io/assets/pdf/Peshoff_2024_2025_teaching_evaluations.pdf)
 
 I share a teaching portfolio, including my teaching statement and a summary of student evaluations [at the link here](https://peshoff.github.io/assets/pdf/Teaching_Portfolio.pdf).
 
