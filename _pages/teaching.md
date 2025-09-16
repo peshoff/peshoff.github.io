@@ -11,8 +11,14 @@ I share my teaching evaluations for the 2024-2025 academic year in full [at the 
 I share a teaching portfolio, including my teaching statement and a summary of student evaluations [at the link here](https://peshoff.github.io/assets/pdf/Teaching_Portfolio.pdf).
 
 
-### Select Comments from Students This Past Semester
-These comments were shared in official, non-compulsory, anonymous student evaluations completed by students who took ECON 2035 "Money, Banking, and Macroeconomic Activity" with me in Fall 2024[^1].
+### Select Comments from Students This Past Academic Year
+These comments were shared in official, non-compulsory, anonymous student evaluations completed by students who took ECON 2035 "Money, Banking, and Macroeconomic Activity" with me[^1].
+
+> Very good at explaining and checking with everyone's understanding. Wonderful at answering any questions and providing the
+environment to feel comfortable to ask questions. She did very good reviews of each of the chapters at the end which helped bring
+everything together.
+
+> She is very kind and I think her teaching style was very effective and fair. I felt like I learned a lot in her class and would definitely say she is the best Econ professor I have ever had. I would easily take another one of her classes.
 
 > Ms. Peshoff was one of the most well-structured professors I’ve ever had. Her PowerPoints were clear and concise. Her explanations translated economics into English. Her exams actually tested our knowledge on what she was teaching us. Highly recommend her course.
 
@@ -41,4 +47,4 @@ These comments were shared in official, non-compulsory, anonymous student evalua
 **Economic Principles (ECON 2030 at LSU)** - Recitation instructor
 * Fall 2020 - Spring 2022 (four semesters)
 
-<!--[^1]: I share student comments from Fall 2024 in full in [my teaching portfolio](https://peshoff.github.io/assets/pdf/Teaching_Portfolio.pdf)).-->
+[^1]: I share student comments from the 2024-2025 academic year in full [at the link here.](https://peshoff.github.io/assets/pdf/Peshoff_2024_2025_teaching_evaluations.pdf)
